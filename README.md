@@ -28,7 +28,7 @@
 
 ## 📦 Installation
 
-1. Go to the [**Releases**](https://github.com/yourusername/tapkey/releases) section.  
+1. Go to the [**Releases**](https://github.com/ForwardEcho/TapKey/releases/) section.  
 2. Download the latest version of **TapKey** for your system.  
 3. Run the application — no installation required.  
 
