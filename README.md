@@ -30,7 +30,12 @@
 Built with ❤️ by **r0xa**
 
 ---
+| Platform | File | Notes |
+|----------|------|-------|
+| Windows | `TapKey-v1.0.0.exe` | 64-bit, standalone |
+| All | `TapKey-v1.0.0.zip` | Portable version |
 
+---
 ## 📦 Installation
 
 1. Go to the [**Releases**](https://github.com/yourusername/tapkey/releases) section.
