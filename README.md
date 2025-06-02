@@ -33,12 +33,11 @@ Built with ❤️ by **r0xa**
 
 ## 📦 Installation
 
-Coming soon...
+1. Go to the [**Releases**](https://github.com/yourusername/tapkey/releases) section.
+2. Download the latest version of **TapKey** for your system.
+3. Run the application — no installation required.
 
-> Or manually run the Python script using:
-> ```bash
-> python tapkey.py
-> ```
+> TapKey runs silently in the background. Look for the tray icon after launch.
 
 ---
 
