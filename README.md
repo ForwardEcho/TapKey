@@ -39,7 +39,6 @@
 | Platform | File | Notes |
 |----------|------|-------|
 | Windows | `TapKey-v1.0.0.exe` | 64-bit, standalone |
-| All      | `TapKey-v1.0.0.zip` | Portable version |
 
 ---
 
